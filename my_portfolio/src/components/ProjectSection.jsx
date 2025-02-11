@@ -11,8 +11,8 @@ const projectsData = [
     description: "A React app for searching GitHub profiles and viewing detailed user information.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shwetakshipriya/GitGlimpse",
+    previewUrl: "https://git-glimpse-eosin.vercel.app/",
   },
   {
     id: 2,
@@ -20,8 +20,8 @@ const projectsData = [
     description: "Next.js app for listing and searching rental properties",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shwetakshipriya/propertypulse",
+    previewUrl: "https://property-pulse-vasu.vercel.app/",
   },
   {
     id: 3,
@@ -29,8 +29,8 @@ const projectsData = [
     description: "Retreives the Crypto Information",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shwetakshipriya/coinverse",
+    previewUrl: "https://crypto-bucks.netlify.app/",
   },
   {
     id: 4,
@@ -38,8 +38,8 @@ const projectsData = [
     description: "Online Book Store",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shwetakshipriya/bookstore",
+    previewUrl: "https://bookstore-sable-seven.vercel.app/",
   },
   {
     id: 5,
@@ -47,8 +47,8 @@ const projectsData = [
     description: "Food Ordering Website",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shwetakshipriya/Yum-eats",
+    previewUrl: "https://statuesque-tanuki-4a1117.netlify.app/",
   },
   {
     id: 6,
@@ -56,8 +56,8 @@ const projectsData = [
     description: "Algo Visualiser",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shwetakshipriya/KMP_VISUALIZER",
+    previewUrl: "https://shwetakshipriya.github.io/KMP_VISUALIZER/",
   },
 ];
 
